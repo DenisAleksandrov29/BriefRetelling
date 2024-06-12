@@ -13,6 +13,7 @@
 		87866EA12C1A224F00B9E21D /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 87866EA02C1A224F00B9E21D /* Base */; };
 		87866EA32C1A225000B9E21D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 87866EA22C1A225000B9E21D /* Assets.xcassets */; };
 		87866EA62C1A225000B9E21D /* Base in Resources */ = {isa = PBXBuildFile; fileRef = 87866EA52C1A225000B9E21D /* Base */; };
+		87B528192C1A33AA0054B1BC /* ViewControllerThree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 87B528182C1A33AA0054B1BC /* ViewControllerThree.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		87866EA22C1A225000B9E21D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		87866EA52C1A225000B9E21D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		87866EA72C1A225000B9E21D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		87B528182C1A33AA0054B1BC /* ViewControllerThree.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewControllerThree.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				87866E992C1A224F00B9E21D /* AppDelegate.swift */,
 				87866E9B2C1A224F00B9E21D /* SceneDelegate.swift */,
 				87866E9D2C1A224F00B9E21D /* ViewController.swift */,
+				87B528182C1A33AA0054B1BC /* ViewControllerThree.swift */,
 				87866E9F2C1A224F00B9E21D /* Main.storyboard */,
 				87866EA22C1A225000B9E21D /* Assets.xcassets */,
 				87866EA42C1A225000B9E21D /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				87866E9E2C1A224F00B9E21D /* ViewController.swift in Sources */,
 				87866E9A2C1A224F00B9E21D /* AppDelegate.swift in Sources */,
 				87866E9C2C1A224F00B9E21D /* SceneDelegate.swift in Sources */,
+				87B528192C1A33AA0054B1BC /* ViewControllerThree.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
